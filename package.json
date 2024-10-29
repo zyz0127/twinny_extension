@@ -131,6 +131,10 @@
     },
     "commands": [
       {
+        "command": "twinny.cmd",
+        "title": "Twinny - cmd"
+      },
+      {
         "command": "twinny.explain",
         "title": "Twinny - Explain"
       },
@@ -489,7 +493,8 @@
     "tiptap-markdown": "^0.8.10",
     "toxe": "^1.1.0",
     "uuid": "^9.0.1",
-    "ws": "^8.18.0"
+    "ws": "^8.18.0",
+    "openai": "^4.13.0"
   },
   "os": [
     "darwin",
